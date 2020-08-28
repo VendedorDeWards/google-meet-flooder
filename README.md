@@ -8,7 +8,9 @@
 
 Clone repository
 
-` git clone https://github.com/VendedorDeWards/google-meet-flooder.git `
+```
+git clone https://github.com/VendedorDeWards/google-meet-flooder.git
+```
 
 Cd into project folder and install requirements
 
@@ -19,4 +21,6 @@ pip install -r requirements.txt
 
 Run main.py and follow instructions
 
-` py main.py `
+```
+py main.py
+```
